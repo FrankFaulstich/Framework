@@ -1,4 +1,4 @@
-# beams
+# Framework
 ## Rechenkern für Stabwerke
 Ziel dieses Projektes ist es, einen einfachen Rechenkern für 2D-Stabwerke zu schaffen.
 
